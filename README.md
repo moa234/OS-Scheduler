@@ -87,3 +87,7 @@ The OS Scheduler with Memory Allocation is dedicated to implementing a CPU sched
 * Salah Mohamed
 * Omar Sherif
 * Hussein Mostafa
+
+##  References
+* [Cairo University - Computer Engineering Department Project Description Phase 1](https://drive.google.com/file/d/1xLsjpW6XlT5z21D40qF28aI3HL9CCXJ4/view?usp=sharing)
+* [Cairo University - Computer Engineering Department Project Description Phase 2](https://drive.google.com/file/d/1zu90RukKdmQYhljyZxpipP1v25mPjzaa/view?usp=sharing)
